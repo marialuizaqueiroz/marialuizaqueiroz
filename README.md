@@ -1,10 +1,17 @@
 ## Olá, eu sou Maria Luiza
 Bem-vindo(a) ao meu repositório pessoal!  
+Aqui você encontrará um pouco sobre mim, minhas áreas de interesse na tecnologia e onde me encontrar online.
 
 ## Sobre mim
-Sou estudante de Engenharia de Computação no Senai Cimatec, interessado(a) em desenvolvimento de software, inteligência artificial, internet das coisas.
+Sou estudante de Engenharia de Computação no Senai Cimatec, interessado(a) em tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.
 
 Atualmente, estou aprendendo sobre desenvolvimento full stack.
+Tenho curiosidade em aprender mais sobre: 
+- Desenvolvimento Web (HTML, CSS, JavaScript)
+- Frameworks modernos como React e Node.js
+- Lógica de programação e estrutura de dados
+- Inteligência Artificial e Aprendizado de Máquina
+- Internet das Coisas
 
 ## Onde me encontrar
 
